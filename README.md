@@ -8,7 +8,7 @@
   <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"/>
 </p>
 
-<p>This is a QRCode site made in HTML, CSS and Javascript.
+<p>This is a QRCode website made in HTML, CSS and Javascript.
 QRCodes are random and not alike.
 It is only a first version and I still have not integrated the fact of being able to download the QRCode.</p>
 <p>To download the QRCode, you must right-click and then save the image</p>
